@@ -1,4 +1,4 @@
-# linear-filter
+# Linear-Filter
 convolution in computer vision
 
 
